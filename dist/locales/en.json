@@ -1285,6 +1285,9 @@
                 "board_type": {
                     "label": "Type"
                 },
+                "boules": {
+                    "label": "Type"
+                },
                 "boundary": {
                     "label": "Type"
                 },
@@ -4127,6 +4130,10 @@
                 "leisure/pitch/beachvolleyball": {
                     "name": "Beach Volleyball Court",
                     "terms": "volleyball"
+                },
+                "leisure/pitch/boules": {
+                    "name": "Boules/Bocce Court",
+                    "terms": "bocce,lyonnaise,pétanque"
                 },
                 "leisure/pitch/bowls": {
                     "name": "Bowling Green",

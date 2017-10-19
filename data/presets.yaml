@@ -238,6 +238,9 @@ en:
       board_type:
         # board_type=*
         label: Type
+      boules:
+        # boules=*
+        label: Type
       boundary:
         # boundary=*
         label: Type
@@ -3468,6 +3471,11 @@ en:
         name: Beach Volleyball Court
         # 'terms: volleyball'
         terms: '<translate with synonyms or related terms for ''Beach Volleyball Court'', separated by commas>'
+      leisure/pitch/boules:
+        # 'leisure=pitch, sport=boules'
+        name: Boules/Bocce Court
+        # 'terms: bocce,lyonnaise,pétanque'
+        terms: '<translate with synonyms or related terms for ''Boules/Bocce Court'', separated by commas>'
       leisure/pitch/bowls:
         # 'leisure=pitch, sport=bowls'
         name: Bowling Green
